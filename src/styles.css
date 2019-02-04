@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cardContainer {
+  background-color: red;
+  height: 50vh;
+  margin: 10vh;
+}

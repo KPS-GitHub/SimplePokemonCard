@@ -1,2 +1,0 @@
-# SimplePokemonCard
-Created with CodeSandbox
